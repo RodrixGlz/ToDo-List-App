@@ -1,0 +1,37 @@
+.box-one{
+    background-color: white;
+}
+
+.text{
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    font-size: 15px;
+    height: 40px;
+    margin: 20px;
+    width: 83%;
+}
+
+.btn-one{
+    background-color: rgb(50, 95, 215);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+    height: 40px;
+    margin-top: 2px;
+    width: 84%;
+}
+
+.btn-two{
+    background-color: rgb(187, 45, 59);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+    height: 40px;
+    margin-top: 20px;
+    width: 84%;
+}

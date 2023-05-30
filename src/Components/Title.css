@@ -1,0 +1,16 @@
+.Title{
+    background-color: black;
+    color: white;
+    font-size: 45px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.ToDo{
+    margin-top: 20px;
+}
+
+.Drag-Drop{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
